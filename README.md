@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h1 align="center">Mojo🔥 GPU Puzzles</h1>
+  <h1 align="center">Mojo🔥 GPU Puzzles With Jstre's solutions</h1>
 </p>
 
 <p align="center">
